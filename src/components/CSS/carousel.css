@@ -1,0 +1,88 @@
+
+.carouselContainer{
+    display: flex;
+    justify-content: center;
+}
+.carouselSlide{
+    position: relative;
+    width: 400px;
+    /* border: 2px solid red; */
+    width: 95vw;
+    display: flex;
+    justify-content: center;
+}
+
+.itemContainer{
+    position: relative;
+    /* border: 2px solid black; */
+    /* overflow: hidden; */
+    /* height: auto; */
+    /* margin-left: 222px; */
+    width: 200px;
+    min-width: 200px;
+}
+
+.item {
+    list-style: none;
+    /* display: inline-block; */
+    position: absolute;
+    top: 0;
+    /* left: 20vw; */
+    transform: translateX(-50%);
+    transition: 1s;
+    width: 200px;
+    height: 200px;
+    background-color: #ddd;
+    border: 1px solid #aaa;
+    /* background-color: yellow; */
+    /* border: 2px solid brown;
+    z-index: 5; */
+  }
+  
+  .item.center {
+    z-index: 1;
+  }
+  
+  .item.left {
+    transform: translateX(-150%);
+    opacity: 0.5;
+  }
+  
+  .item.right {
+    transform: translateX(50%);
+    opacity: 0.5;
+  }
+  .imgCarousel{
+    width: 500px;
+  }
+  .position{
+    display: flex;
+  }
+  .position li{
+    list-style: none;
+    margin: 3px;
+    padding: 0px 6px;
+    border: 1px solid black;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 13px;
+    /* background-color: black; */
+  }
+  .previous{
+    position: absolute;
+    left: 0;
+    top: 50%;
+    z-index: 1;
+    
+}
+.next{
+    z-index: 1;
+    position: absolute;
+    right: 0;
+    top: 50%;
+}
+.previous, .next{
+    font-size: 20px;
+    padding: 5px;
+
+  }
