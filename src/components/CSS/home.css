@@ -7,6 +7,10 @@
     text-align: center;
     margin: 25px;
 }
+.subtitleHome{
+    text-align: center;
+    margin-bottom: 50px;
+}
 .containerImg{
     display: flex;
     flex-wrap: wrap;
@@ -22,10 +26,44 @@
 
 /* CAROUSEL */
 .home div{
-    height: 81vh;
+    /* height: 81vh; */
+}
+.carouselContainer{
+    /* height: 50vh; */
+    /* display: none; */
+}
+.d-block{
+    height: 90vh;
 }
 .carousel-control-next-icon, .carousel-control-prev-icon{
     background-color: black;
     color: black;
     border-radius: 50%;
+}
+
+/* COMPONENTE CARDS */
+.cardsContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 20px;
+}
+.cardsContainer a{
+    text-decoration: none;
+    color: black;
+}
+.cardd{
+    width: 320px;
+    margin: 15px;
+    box-shadow: 0 0 5px 3px black;
+    border-radius: none !important;
+    background-color: silver;
+}
+.cardd h5{
+    text-align: center;
+}
+.imgCard{
+    width: 320px;
+    /* margin: 2px; */
+    height: 200px;
 }

@@ -1,11 +1,9 @@
-:root{
-  margin: 0;
-}
+
 
 .footerRedes {
     /* position: -webkit-sticky; */
-    position: static;
-    bottom: 0;
+    /* position: sticky;
+    bottom: 0; */
     background-color: silver;
     padding: 15px;
     margin-top: 30px;

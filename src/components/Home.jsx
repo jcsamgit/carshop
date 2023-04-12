@@ -8,6 +8,7 @@ import image6 from "../multimedia/image (6).jpeg"
 import image7 from "../multimedia/image (7).jpeg"
 import "./CSS/home.css"
 import CarouselBT from './CarouselBT'
+import Cards from './Cards'
 // import Carousel from './Carousel'
 // import Cards from './Cards'
 
@@ -27,8 +28,10 @@ export default function Home() {
   return (
     <div className='home'>
         <h1 className='titleHome'>TITULO</h1>
-        {/* CAROUSEL */}
         <CarouselBT/>
+        <br />
+        <h2 className='subtitleHome'>Modelos disponibles</h2>
+        <Cards/>
     </div>
   )
 }
