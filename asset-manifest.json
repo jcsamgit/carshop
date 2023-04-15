@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/carshop/static/css/main.b79784fa.css",
-    "main.js": "/carshop/static/js/main.44c4815b.js",
+    "main.css": "/carshop/static/css/main.125ca50e.css",
+    "main.js": "/carshop/static/js/main.425d91b6.js",
     "static/js/787.24b4dcb8.chunk.js": "/carshop/static/js/787.24b4dcb8.chunk.js",
     "static/media/image (5).jpeg": "/carshop/static/media/image (5).d536bd963fd5e75d1664.jpeg",
     "static/media/image (7).jpeg": "/carshop/static/media/image (7).91acc54ddf34813f9aca.jpeg",
@@ -27,24 +27,30 @@
     "static/media/fiat-cronos-marron.jpeg": "/carshop/static/media/fiat-cronos-marron.2cb12b882a638ef9531d.jpeg",
     "static/media/fiat-fiorino-crema.jpeg": "/carshop/static/media/fiat-fiorino-crema.f9fc238041440d07eac4.jpeg",
     "static/media/FT2strada.png": "/carshop/static/media/FT2strada.6eb322b3bbaec4bb1ab0.png",
+    "static/media/publicidad4.jpeg": "/carshop/static/media/publicidad4.e468fabed0bbc1d0382d.jpeg",
     "static/media/FT1toro.png": "/carshop/static/media/FT1toro.91e89810b022cc992690.png",
     "static/media/FT1strada.png": "/carshop/static/media/FT1strada.e4fc9a29666cd0267ceb.png",
     "static/media/FT2toro.png": "/carshop/static/media/FT2toro.b725a58cda48899b267a.png",
     "static/media/FT1fiorino.png": "/carshop/static/media/FT1fiorino.bd17ab3a44298b1e4675.png",
+    "static/media/publicidad5.jpeg": "/carshop/static/media/publicidad5.3f237195819312491b09.jpeg",
+    "static/media/publicidad.jpeg": "/carshop/static/media/publicidad.bc474706bea62490274b.jpeg",
     "static/media/FT1cronos.png": "/carshop/static/media/FT1cronos.a4f78a3b7121895a888e.png",
+    "static/media/publicidad6.jpeg": "/carshop/static/media/publicidad6.3c9789d92cfc57b47994.jpeg",
     "static/media/FT1pulse.png": "/carshop/static/media/FT1pulse.a18c64e4ed4342e12ea0.png",
+    "static/media/publicidad2.jpeg": "/carshop/static/media/publicidad2.8ec3f75a5c9c0bf1205c.jpeg",
     "static/media/FT2pulse.png": "/carshop/static/media/FT2pulse.a19a9a74150303442fa6.png",
     "static/media/FT2cronos.png": "/carshop/static/media/FT2cronos.758bdd0fd68361e48cf6.png",
     "static/media/FT2fiorino.png": "/carshop/static/media/FT2fiorino.1222db8afe342396e866.png",
     "static/media/FT3fiorino.png": "/carshop/static/media/FT3fiorino.9683f30dc56e3a3ed25e.png",
+    "static/media/publicidad3.jpeg": "/carshop/static/media/publicidad3.3f0ecef63c83084e392b.jpeg",
     "static/media/logo.svg": "/carshop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/carshop/index.html",
-    "main.b79784fa.css.map": "/carshop/static/css/main.b79784fa.css.map",
-    "main.44c4815b.js.map": "/carshop/static/js/main.44c4815b.js.map",
+    "main.125ca50e.css.map": "/carshop/static/css/main.125ca50e.css.map",
+    "main.425d91b6.js.map": "/carshop/static/js/main.425d91b6.js.map",
     "787.24b4dcb8.chunk.js.map": "/carshop/static/js/787.24b4dcb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b79784fa.css",
-    "static/js/main.44c4815b.js"
+    "static/css/main.125ca50e.css",
+    "static/js/main.425d91b6.js"
   ]
 }
