@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.carDetail{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 20px;
+}
+.imgContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.imgContainer img{
+    width: 350px;
+    margin: 10px;
+    box-shadow: 0 0 5px 3px;
+
+}
+.imgContainer img:active{
+    transform: scale(1.6);
+    transition: 1s;
+    position: absolute;
+    top: 13vw;
+    left: 40%;
+    
+}
+.wpContainer{
+    padding: 10px;
+    width: 70px;
+    height: 70px;
+    position: fixed;
+    bottom: 50px;
+    right: 10px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 5px 3px darkgreen;
+}
+.wp{
+    width: 60px;
+    fill: green;
+    padding: 5px;
+
+    
+}
+.wpContainer:hover{
+    background-color: black;
+    /* box-shadow: 0 0 5px 3px silver; */
+}
+.wp:hover{
+    fill: lightgreen;
+}
+.carDetailText{
+    margin: 20px;
+    text-align: center;
+}
+.carDetailText p{
+    margin: 0;
+}
+.fichaContainer{
+    margin-top: 30px;
+}
+.fichaContainer figure{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+.fichaContainer figure img{
+    min-width: 350px;
+    /* width: 60vw; */
+}
+.fichaContainer h2{
+    text-align: center;
+}
+
+@media only screen and (max-width:700px){
+    .fichaContainer figure img{
+        min-width: 300px;
+        width: 95vw;
+    }
+}

@@ -13,10 +13,8 @@ function App() {
     <HashRouter>  
     <NavBar/>
     <Routes>
-        {/* <Route exact path='/:id-:marca-:modelo' element={<CarDetails card={card} />} /> */}
         <Route exact path='/:id' element={<CarDetails/>} />
         <Route path='/' element={<Home/> }/>
-        {/* <Route path='/contact' element={ <ContactForm/>} /> */}
         <Route path='/about-us' element={ <AboutUs/>} />
         
     </Routes>

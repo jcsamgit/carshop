@@ -86,3 +86,11 @@
     padding: 5px;
 
   }
+  /* .carousel-indicators button{
+    background-color: black;
+    display: none !important;
+  }
+.carousel-indicators [data-bs-target]{
+    display: none !important;
+    background-color: black !important;
+  } */

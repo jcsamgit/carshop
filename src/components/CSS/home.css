@@ -25,12 +25,18 @@
 }
 
 /* CAROUSEL */
-.home div{
-    /* height: 81vh; */
-}
+
 .carouselContainer{
     /* height: 50vh; */
     /* display: none; */
+    /* margin: 10px 20vw; */
+    /* width: 70vw; */
+    display: flex;
+    justify-content: center;
+    
+}
+#carouselExampleCaptions{
+    width: 800px;
 }
 .d-block{
     height: 90vh;

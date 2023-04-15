@@ -8,8 +8,7 @@ export default function Card({card:{id,marca,modelo,precio,image}}) {
 
             <div className='cardd'>
                 <img className='imgCard' src={image} alt=""  />
-                <h5>{marca}</h5>
-                <h5>{modelo}</h5>
+                <h5>{marca} {modelo}</h5>
                 <h5>{precio}</h5>
             </div>
         </Link>
