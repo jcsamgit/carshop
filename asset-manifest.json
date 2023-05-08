@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/carshop/static/css/main.06cf32f0.css",
-    "main.js": "/carshop/static/js/main.55d598a4.js",
+    "main.css": "/carshop/static/css/main.979fd12b.css",
+    "main.js": "/carshop/static/js/main.d0655644.js",
     "static/js/787.24b4dcb8.chunk.js": "/carshop/static/js/787.24b4dcb8.chunk.js",
     "static/media/image (5).jpeg": "/carshop/static/media/image (5).4be10f84190358bd3731.jpeg",
     "static/media/image (7).jpeg": "/carshop/static/media/image (7).91acc54ddf34813f9aca.jpeg",
@@ -45,12 +45,12 @@
     "static/media/publicidad3.jpeg": "/carshop/static/media/publicidad3.3f0ecef63c83084e392b.jpeg",
     "static/media/logo.svg": "/carshop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/carshop/index.html",
-    "main.06cf32f0.css.map": "/carshop/static/css/main.06cf32f0.css.map",
-    "main.55d598a4.js.map": "/carshop/static/js/main.55d598a4.js.map",
+    "main.979fd12b.css.map": "/carshop/static/css/main.979fd12b.css.map",
+    "main.d0655644.js.map": "/carshop/static/js/main.d0655644.js.map",
     "787.24b4dcb8.chunk.js.map": "/carshop/static/js/787.24b4dcb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06cf32f0.css",
-    "static/js/main.55d598a4.js"
+    "static/css/main.979fd12b.css",
+    "static/js/main.d0655644.js"
   ]
 }
