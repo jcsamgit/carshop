@@ -34,7 +34,7 @@ import fiorinoFT3 from "../multimedia/ficha-tecnica/FT3fiorino.png"
 export const cardData=[
 
     {
-        id:"1",
+        id:"fiat-toro",
         marca: "FIAT",
         modelo: "TORO",
         precio: "$" + "8.688.100",
@@ -44,7 +44,7 @@ export const cardData=[
         ficha:[toroFT1, toroFT2]
     },
     {
-        id:"2",
+        id:"fiat-strada",
         marca: "FIAT",
         modelo: "STRADA",
         precio: "$" + "6.397.500",
@@ -54,7 +54,7 @@ export const cardData=[
         ficha:[stradaFT1, stradaFT2]
     },
     {
-        id:"3",
+        id:"fiat-cronos",
         marca: "FIAT",
         modelo: "CRONOS",
         precio: "$" + "5.489.100",
@@ -64,7 +64,7 @@ export const cardData=[
         ficha:[cronosFT1, cronosFT2]
     },
     {
-        id:"4",
+        id:"fiat-pulse",
         marca: "FIAT",
         modelo: "PULSE",
         precio: "$" + "6.057.900",
@@ -74,7 +74,7 @@ export const cardData=[
         ficha:[pulseFT1,pulseFT2]
     },
     {
-        id:"5",
+        id:"fiat-fiorino",
         marca: "FIAT",
         modelo: "FIORINO",
         precio: "$" + "5.640.200",
@@ -83,23 +83,4 @@ export const cardData=[
         colors:[fiorinoCrema],
         ficha:[fiorinoFT1, fiorinoFT2,fiorinoFT3]
     }
-    // ,
-    // {
-    //     id:"6",
-    //     marca: "FIAT",
-    //     modelo: "TORO",
-    //     precio: "$" + 1111111,
-    //     image: image1,
-    //     colors:[],
-    //     ficha:[]
-    // },
-    // {
-    //     id:"7",
-    //     marca: "FIAT",
-    //     modelo: "TORO",
-    //     precio: "$" + 1111111,
-    //     image: image1,
-    //     colors:[],
-    //     ficha:[]
-    // }
 ]

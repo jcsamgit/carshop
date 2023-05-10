@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://acaestatu0km.com/</title>
+  <link>http://acaestatu0km.com/</link>
+
+<item>
+     <link>https://acaestatu0km.com/</link>
+     <title>Aca esta tu 0km</title>
+     <description>En nuestro sitio ofrecemos una amplia variedad de autos Fiat 0km a precios competitivos. Descubre nuestras ofertas y promociones y adquiere el auto de tus sueños. ¡Visítanos hoy!</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
