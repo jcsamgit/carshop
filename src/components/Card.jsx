@@ -6,8 +6,8 @@ export default function Card({card:{id,marca,modelo,precio,image}}) {
     <div>
         <Link to={`/${id}`} key={id}>
 
-            <div className='cardd'>
-                <img className='imgCard' src={image} alt=""  />
+            <div title='ver mas >>>' className='cardd'>
+                <img className='imgCard' src={image} alt={`imagen de un auto ${marca} ${modelo}`}  />
                 <h5>{marca} {modelo}</h5>
                 <h5>{precio}</h5>
             </div>

@@ -1,0 +1,35 @@
+.wpContainer{
+    padding: 8px;
+    width: 60px;
+    height: 60px;
+    position: fixed;
+    bottom: 90px;
+    right: 10px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 5px 3px darkgreen;
+}
+.wp{
+    width: 100%;
+    fill: green;
+    padding: 5px;
+
+    
+}
+.wpContainer:hover{
+    background-color: black;
+    /* box-shadow: 0 0 5px 3px silver; */
+}
+.wp:hover{
+    fill: lightgreen;
+}
+
+@media only screen and (max-width:500px){
+    .wpContainer{
+        width: 40px;
+        height: 40px;
+        padding: 2px;
+    }
+}

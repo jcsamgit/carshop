@@ -30,7 +30,7 @@ export default function Home() {
         {/* <h1 className='titleHome'>TITULO</h1> */}
         <CarouselBT/>
         <br />
-        <h2 className='subtitleHome'>Modelos disponibles</h2>
+        <h1 className='subtitleHome'>Modelos disponibles</h1>
         <Cards/>
     </div>
   )

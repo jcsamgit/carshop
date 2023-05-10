@@ -7,6 +7,7 @@ import AboutUs from './components/AboutUs';
 import Footer from './components/Footer';
 import Cards from './components/Cards';
 import CarDetails from './components/CarDetails';
+import Promotions from './components/Promotions';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Route exact path='/:id' element={<CarDetails/>} />
         <Route path='/' element={<Home/> }/>
         <Route path='/about-us' element={ <AboutUs/>} />
+        <Route path='/promotions' element={<Promotions/>} />
         
     </Routes>
     <Footer/>

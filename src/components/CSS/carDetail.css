@@ -28,39 +28,16 @@
     left: 40%;
     
 }
-.wpContainer{
-    padding: 10px;
-    width: 70px;
-    height: 70px;
-    position: fixed;
-    bottom: 50px;
-    right: 10px;
-    border-radius: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    box-shadow: 0 0 5px 3px darkgreen;
-}
-.wp{
-    width: 60px;
-    fill: green;
-    padding: 5px;
 
-    
-}
-.wpContainer:hover{
-    background-color: black;
-    /* box-shadow: 0 0 5px 3px silver; */
-}
-.wp:hover{
-    fill: lightgreen;
-}
 .carDetailText{
     margin: 20px;
     text-align: center;
 }
 .carDetailText p{
     margin: 0;
+}
+.carDetailText h2{
+    color: red;
 }
 .fichaContainer{
     margin-top: 30px;

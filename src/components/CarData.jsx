@@ -39,7 +39,7 @@ export const cardData=[
         modelo: "TORO",
         precio: "$" + "8.688.100",
         cuota: "$"+ "137.848,33",
-        image: toroPlateado,
+        image: toroAzul,
         colors:[toroPlateado, toroAzul, toroBordo,toroGris],
         ficha:[toroFT1, toroFT2]
     },
@@ -49,7 +49,7 @@ export const cardData=[
         modelo: "STRADA",
         precio: "$" + "6.397.500",
         cuota: "$"+ "101.504,90",
-        image: stradaPlateado,
+        image: stradaRojo,
         colors:[stradaBlanco,stradaRojo,stradaPlateado],
         ficha:[stradaFT1, stradaFT2]
     },
@@ -59,7 +59,7 @@ export const cardData=[
         modelo: "CRONOS",
         precio: "$" + "5.489.100",
         cuota: "$"+ "42.813,40",
-        image: cronosCrema,
+        image: cronosMarron,
         colors:[cronosCrema,cronosGris,cronosMarron,cronosRojo],
         ficha:[cronosFT1, cronosFT2]
     },
@@ -69,7 +69,7 @@ export const cardData=[
         modelo: "PULSE",
         precio: "$" + "6.057.900",
         cuota: "$"+ "96.116,70",
-        image: pulseGris,
+        image: pulseBlanco,
         colors:[pulseAzulMarino,pulseBlanco,pulseGris,pulseRojo],
         ficha:[pulseFT1,pulseFT2]
     },

@@ -9,13 +9,10 @@
   } */
 nav{
     height: 70px;
-    /* background-color: gray; */
     background-color: silver;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    /* position: fixed; */
-    /* top: 0; */
     width: 100%;
 }
 nav h2{
@@ -29,7 +26,6 @@ nav ul{
 }
 nav ul li{
     list-style: none;
-    /* background-color: yellow; */
     margin: 15px;
 
 }

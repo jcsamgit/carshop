@@ -9,8 +9,8 @@ export default function NavBar() {
   return (
     <nav>
         <div className='logoContainer'>
-            <img className='logo logo1' src={logo} alt="" />
-            <img className='logo' src={logo2} alt="" />
+            <img className='logo logo1' src={logo} alt="logo" />
+            <img className='logo' src={logo2} alt="logo" />
         </div>
         <ul>
             <li>
@@ -19,9 +19,9 @@ export default function NavBar() {
             <li>
                 <Link to="/about-us">Sobre nosotros</Link>
             </li>
-            {/* <li>
-                <Link to="/contact">Contactenos</Link>
-            </li> */}
+            <li>
+                <Link to="/promotions">Promociones</Link>
+            </li>
         </ul>
     </nav>
   )

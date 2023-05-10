@@ -28,35 +28,35 @@ export default function CarouselBT() {
             </div>
             <div className="carousel-inner">
                 <div className="carousel-item active">
-                    <img src={publicidad2} className="d-block w-100" alt="..."/>
+                    <img src={publicidad2} className="d-block w-100" alt="imagen publicitaria sobre venta de auto con diferentes promociones"/>
                     <div className="carousel-caption d-none d-md-block">
                         {/* <h5>First slide label</h5> */}
                         {/* <p>Some representative placeholder content for the first slide.</p> */}
                     </div>
                 </div>
                 <div className="carousel-item">
-                    <img src={publicidad3} className="d-block w-100" alt="..."/>
+                    <img src={publicidad3} className="d-block w-100" alt="imagen publicitaria sobre venta de auto con diferentes promociones"/>
                     <div className="carousel-caption d-none d-md-block">
                         {/* <h5>Second slide label</h5> */}
                         {/* <p>Some representative placeholder content for the second slide.</p> */}
                     </div>
                 </div>
                 <div className="carousel-item">
-                    <img src={publicidad4} className="d-block w-100" alt="..."/>
+                    <img src={publicidad4} className="d-block w-100" alt="imagen publicitaria sobre venta de auto con diferentes promociones"/>
                     <div className="carousel-caption d-none d-md-block">
                         {/* <h5>Third slide label</h5> */}
                         {/* <p>Some representative placeholder content for the third slide.</p> */}
                     </div>
                 </div>
                 <div className="carousel-item">
-                    <img src={publicidad5} className="d-block w-100" alt="..."/>
+                    <img src={publicidad5} className="d-block w-100" alt="imagen publicitaria sobre venta de auto con diferentes promociones"/>
                     <div className="carousel-caption d-none d-md-block">
                         {/* <h5>Third slide label</h5> */}
                         {/* <p>Some representative placeholder content for the third slide.</p> */}
                     </div>
                 </div>
                 <div className="carousel-item">
-                    <img src={publicidad6} className="d-block w-100" alt="..."/>
+                    <img src={publicidad6} className="d-block w-100" alt="imagen publicitaria sobre venta de auto con diferentes promociones"/>
                     <div className="carousel-caption d-none d-md-block">
                         {/* <h5>Third slide label</h5> */}
                         {/* <p>Some representative placeholder content for the third slide.</p> */}

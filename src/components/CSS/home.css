@@ -1,8 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+
 .titleHome{
     text-align: center;
     margin: 25px;
@@ -17,12 +13,13 @@
     justify-content: center;
     margin-bottom: 100px;
 }
-.containerImg img{
+/* .containerImg img{
     width: 80vw;
     min-width: 200px;
     margin: 30px;
     box-shadow: 0 0 5px 5px black;
-}
+} */
+
 
 /* CAROUSEL */
 
@@ -33,11 +30,14 @@
     /* width: 70vw; */
     display: flex;
     justify-content: center;
+    margin-top: 10px;
+    
     
 }
 #carouselExampleCaptions{
     width: 800px;
 }
+
 .d-block{
     height: 90vh;
 }
@@ -47,12 +47,25 @@
     border-radius: 50%;
 }
 
+@media only screen and (max-width:700px){
+
+    .carousel-inner img{
+        /* object-fit: cover; */
+        height: fit-content;
+    }
+
+}
+
 /* COMPONENTE CARDS */
 .cardsContainer{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
     margin: 20px;
+}
+.cardsContainer>div:hover{
+    transform: translateY(-5px) scale(1.05);
+    /* display: none; */
 }
 .cardsContainer a{
     text-decoration: none;

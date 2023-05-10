@@ -1,3 +1,8 @@
+.visitenos{
+    text-align: center;
+    margin-top: 20px;
+    font-style: italic;
+}
 .containerUs{
     display: flex;
     flex-wrap: wrap;
@@ -10,7 +15,7 @@
     flex-direction: column;
     justify-content: center;
     /* height: 300px; */
-    max-width: 30vw;
+    max-width: 35vw;
     min-width: 300px;
     border: 1px solid black;
     box-shadow: 0 0 5px 3px black;
@@ -20,8 +25,13 @@
 }
 .containerUs p{
     padding: 15px;
-    line-height: 1.7;
+    line-height: 1.8;
     text-align: center;
+    font-style: oblique;
+    font-weight: bold;
+    text-shadow: 0 0 5px lightskyblue;
+    /* text-decoration-skip: 2; */
+    letter-spacing: 2px;
 }
 .mapa{
     height: 350px;
