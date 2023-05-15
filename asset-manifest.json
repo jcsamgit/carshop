@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/carshop/static/css/main.979fd12b.css",
-    "main.js": "/carshop/static/js/main.14beb623.js",
-    "static/js/787.24b4dcb8.chunk.js": "/carshop/static/js/787.24b4dcb8.chunk.js",
+    "main.css": "/carshop/static/css/main.132e0ad9.css",
+    "main.js": "/carshop/static/js/main.734fd07c.js",
+    "static/js/787.5f72d8a2.chunk.js": "/carshop/static/js/787.5f72d8a2.chunk.js",
+    "static/media/foto-de-perfil-gerardo.jpg": "/carshop/static/media/foto-de-perfil-gerardo.74399280f5f314ffbf1d.jpg",
     "static/media/image (5).jpeg": "/carshop/static/media/image (5).4be10f84190358bd3731.jpeg",
     "static/media/image (7).jpeg": "/carshop/static/media/image (7).91acc54ddf34813f9aca.jpeg",
     "static/media/image (6).jpeg": "/carshop/static/media/image (6).6d9aaaf3e97ca9e04f69.jpeg",
@@ -45,12 +46,12 @@
     "static/media/publicidad3.jpeg": "/carshop/static/media/publicidad3.3f0ecef63c83084e392b.jpeg",
     "static/media/logo.svg": "/carshop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/carshop/index.html",
-    "main.979fd12b.css.map": "/carshop/static/css/main.979fd12b.css.map",
-    "main.14beb623.js.map": "/carshop/static/js/main.14beb623.js.map",
-    "787.24b4dcb8.chunk.js.map": "/carshop/static/js/787.24b4dcb8.chunk.js.map"
+    "main.132e0ad9.css.map": "/carshop/static/css/main.132e0ad9.css.map",
+    "main.734fd07c.js.map": "/carshop/static/js/main.734fd07c.js.map",
+    "787.5f72d8a2.chunk.js.map": "/carshop/static/js/787.5f72d8a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.979fd12b.css",
-    "static/js/main.14beb623.js"
+    "static/css/main.132e0ad9.css",
+    "static/js/main.734fd07c.js"
   ]
 }
