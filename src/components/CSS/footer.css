@@ -1,9 +1,6 @@
 
 
 .footerRedes {
-    /* position: -webkit-sticky; */
-    /* position: sticky;
-    bottom: 0; */
     background-color: silver;
     padding: 15px;
     margin-top: 30px;
@@ -19,11 +16,7 @@
     .footerRedes__lista {
       margin: 0; } 
 
-    /* .footerRedes__lista:hover a {
-      filter: blur(2px); } */
-
     .footerRedes__item {
-      /* display: inline-block; */
       margin-left: 25px;
       display: inline-block;
       margin: 0 5px;
@@ -42,8 +35,6 @@
       transition: .2s; }
 
     .footerRedes__enlace:hover {
-      /* padding: 0;
-      margin: 0; */
       color: white;
       transform: translateY(-3px) scale(1.05);
       box-shadow: 0 5px 5px 0px rgba(0, 0, 0, 0.4); }
@@ -56,21 +47,14 @@
       background: #e4405f;
       filter: none; }
 
-    /* .footerRedes .twitter:hover {
-      background: #55acee;
-      filter: none; } */
     .footerRedes .tiktok svg:hover{
-      /* transform: scale(.9); */
-      /* width: 70%; */
       display: inline;
     }
     .footerRedes .tiktok:hover{
       background-color: blueviolet;
-      /* transform: scale(1); */
       filter: none;
     }
     .footerRedes .tiktok svg{
-      /* color: yellow; */
       fill: white;
       width: 60%;
     }

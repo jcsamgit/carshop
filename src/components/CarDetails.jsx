@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
 import { cardData } from './CarData'
 import "./CSS/carDetail.css"
-// import Whatsapp from './Whatsapp'
 
 export default function CarDetails() {
     const {id}=useParams()
@@ -24,10 +23,8 @@ export default function CarDetails() {
     console.log("ITEMSSS",items)
   return (
     <div className='carDetail'>
-        {/* <Whatsapp/> */}
         <div className='carDetailText'>
             <h1>{items.marca} {items.modelo} </h1>
-            {/* <h2>{items.precio} </h2> */}
             <p> Cuota y precios a consultar </p>
         </div>
         <figure className='imgContainer'>

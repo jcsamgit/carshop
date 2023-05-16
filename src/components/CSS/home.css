@@ -13,26 +13,14 @@
     justify-content: center;
     margin-bottom: 100px;
 }
-/* .containerImg img{
-    width: 80vw;
-    min-width: 200px;
-    margin: 30px;
-    box-shadow: 0 0 5px 5px black;
-} */
 
 
 /* CAROUSEL */
 
 .carouselContainer{
-    /* height: 50vh; */
-    /* display: none; */
-    /* margin: 10px 20vw; */
-    /* width: 70vw; */
     display: flex;
     justify-content: center;
     margin-top: 10px;
-    
-    
 }
 #carouselExampleCaptions{
     width: 800px;
@@ -50,7 +38,6 @@
 @media only screen and (max-width:700px){
 
     .carousel-inner img{
-        /* object-fit: cover; */
         height: fit-content;
     }
 
@@ -65,7 +52,6 @@
 }
 .cardsContainer>div:hover{
     transform: translateY(-5px) scale(1.05);
-    /* display: none; */
 }
 .cardsContainer a{
     text-decoration: none;
@@ -83,6 +69,5 @@
 }
 .imgCard{
     width: 320px;
-    /* margin: 2px; */
     height: 200px;
 }
