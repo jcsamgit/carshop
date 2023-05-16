@@ -7,7 +7,7 @@ export default function Footer() {
         <footer className="footerRedes">   
             <ul className="footerRedes__lista">
                 <li className="footerRedes__item">
-                    <a title='facebook' href="https://www.facebook.com/profile.php?id=100092081426304&mibextid=ZbWKwL" className="footerRedes__enlace facebook"><i className="fab fa-facebook-f"></i></a>
+                    <a title='facebook' href="https://www.facebook.com/profile.php?id=100083603041302&mibextid=ZbWKwL" className="footerRedes__enlace facebook"><i className="fab fa-facebook-f"></i></a>
                 </li>
                 <li className="footerRedes__item">
                     <a title='instagram' href="https://instagram.com/acaestatu0km?igshid=ZDdkNTZiNTM=" className="footerRedes__enlace   instagram"><i className="fab fa-instagram"></i></a>

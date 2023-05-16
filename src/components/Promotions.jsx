@@ -22,19 +22,19 @@ export default function Promotions() {
             <div>
                 {/* CRONOS */}
                 <img src={image2} alt="imagen publicitaria sobre venta de auto con diferentes promociones" />
-                <h2><span>$5.489.100</span> </h2>
-                <p>PRECIO DE LISTA!</p>
+                {/* <h2><span>$5.489.100</span> </h2> */}
+                <p>CONSULTAR PRECIO</p>
             </div>
             <div>
                 <img src={image3} alt="imagen publicitaria sobre venta de auto con diferentes promociones" />
                 <p>ENTREGA PACTADA DESDE CUOTA 4!</p>
-                <h2>CUOTA DESDE: <span>$57.873</span></h2>
+                <h2>CONSULTAR CUOTAS</h2>
                 <p>NEGOCIACION SEGURA!</p>
             </div>
             <div>
                 <img src={image6} alt="imagen publicitaria sobre venta de auto con diferentes promociones" />
-                <h2>CUOTA DESDE: <span>$57.873</span></h2>
-                <h2>ANTICIPO: <span>$1.100.000</span></h2>
+                <h2>CONSULTAR CUOTA</h2>
+                <h2>ANTICIPO: A CONSULTAR</h2>
                 <p>(O TU USADO)</p>
             </div>
 

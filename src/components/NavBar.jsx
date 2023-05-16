@@ -9,15 +9,15 @@ export default function NavBar() {
   return (
     <nav>
         <div className='logoContainer'>
-            <img className='logo logo1' src={logo} alt="logo" />
-            <img className='logo' src={logo2} alt="logo" />
+            {/* <img className='logo logo1' src={logo} alt="logo" /> */}
+            {/* <img className='logo' src={logo2} alt="logo" /> */}
         </div>
         <ul>
             <li>
                 <Link to="/">Inicio</Link>
             </li>
             <li>
-                <Link to="/about-us">Sobre nosotros</Link>
+                <Link to="/about-us">Sobre mi</Link>
             </li>
             <li>
                 <Link to="/promotions">Promociones</Link>

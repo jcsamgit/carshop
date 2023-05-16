@@ -19,8 +19,8 @@
     .footerRedes__lista {
       margin: 0; } 
 
-    .footerRedes__lista:hover a {
-      filter: blur(2px); }
+    /* .footerRedes__lista:hover a {
+      filter: blur(2px); } */
 
     .footerRedes__item {
       /* display: inline-block; */

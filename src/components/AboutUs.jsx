@@ -1,16 +1,22 @@
 import React from 'react'
 import "./CSS/aboutUs.css"
+import fotoPerfil from "../multimedia/foto-de-perfil-gerardo.jpg"
 
 export default function AboutUs() {
   return (
     <>
-      <h1 className='visitenos'>VISITENOS</h1>
+      <h1 className='visitenos'>SOBRE MI</h1>
       <div className='containerUs'>
         <div>
-          <p>Somos una empresa con mas de 20años en el mercado automotor con agencias oficiales en CABA y gran Buenos Aires. Visitenos en zona Beiro y Gral Paz. 
+          <img src={fotoPerfil} className='perfil' alt="foto del perfil del vendedor de autos" />
+          <p>Me llamo Gerardo soy asesor y ejecutivo de ventas de 0 km. Vivo en Buenos Aires, tengo casi una decada en el rubro automotriz. Con mi trabajo me dedico a ayudar a la gente a proyectar su futuro para que un 0 km no sea algo imposible 
           <br/>  
-          Nuestro objetivo es ayudarte a alcanzar tu 0km de la manera mas facil y accesible posible.
-          Hacemos entregas garantizada y atencion post-venta. Respaldo y confianza avalan nuestra empresa</p>
+          Un auto mas que un lujo es una necesidad. Pero cada vez se complica mas lograrlo.
+          <br />
+          Hagamoslo facil.
+          <br />
+          Comencemos a gestionar las llaves de tu proximo vehiculo.
+          </p>
 
         </div>
         <div>
